@@ -1,0 +1,6 @@
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\Pyramid Star Pattern\Pyramid Star Pattern\Pyramid Star Pattern\bin\Debug\Pyramid Star Pattern.exe.config
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\Pyramid Star Pattern\Pyramid Star Pattern\Pyramid Star Pattern\bin\Debug\Pyramid Star Pattern.exe
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\Pyramid Star Pattern\Pyramid Star Pattern\Pyramid Star Pattern\bin\Debug\Pyramid Star Pattern.pdb
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\Pyramid Star Pattern\Pyramid Star Pattern\Pyramid Star Pattern\obj\Debug\Pyramid Star Pattern.csprojResolveAssemblyReference.cache
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\Pyramid Star Pattern\Pyramid Star Pattern\Pyramid Star Pattern\obj\Debug\Pyramid Star Pattern.exe
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\Pyramid Star Pattern\Pyramid Star Pattern\Pyramid Star Pattern\obj\Debug\Pyramid Star Pattern.pdb
